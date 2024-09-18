@@ -702,11 +702,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 8fc80275-f451-4d43-8f5b-7335e05401f5
+  cloudProjectId: a9290418-5a51-4407-93c7-d4402477db48
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: ShipMovement
-  organizationId: nmmishle
+  projectName: Exercise-02b-Bullets-And-Asteroids
+  organizationId: xshadow1
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
